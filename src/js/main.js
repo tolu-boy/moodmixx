@@ -30,7 +30,6 @@ loadAllProducts();
 document.querySelectorAll(".category-card").forEach(card => {
   card.addEventListener("click", () => {
     const category = card.dataset.category;
-    window.location.href = `/product_list.html?category=${category}`;
-
+    window.location.href = `/src/product_list/product_list.html?category=${category}`;
   });
 });
