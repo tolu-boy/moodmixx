@@ -1,0 +1,65 @@
+{
+  "study": [
+    {
+      "product_id": "ST001",
+      "title": "Steady Grind Motivation",
+      "price": 4.49,
+      "description": "A calm motivational playlist designed to keep you disciplined and focused during long study hours."
+    },
+    {
+      "product_id": "ST002",
+      "title": "Deep Focus Lo-Fi",
+      "price": 3.99,
+      "description": "Smooth lo-fi beats that help eliminate distractions and create a stable study rhythm."
+    },
+    {
+      "product_id": "ST003",
+      "title": "Brainwave Boost",
+      "price": 5.49,
+      "description": "Scientifically-inspired ambient tracks to enhance concentration and cognitive focus."
+    },
+    {
+      "product_id": "ST004",
+      "title": "Zero Distractions Mix",
+      "price": 2.99,
+      "description": "Minimalist soundscapes curated to keep your mind clear and fully present on your tasks."
+    },
+    {
+      "product_id": "ST005",
+      "title": "Study in Silence Beats",
+      "price": 3.49,
+      "description": "Extremely soft instrumental beats perfect for reading, writing, or quiet learning."
+    },
+    {
+      "product_id": "ST006",
+      "title": "Exam Mode Calm",
+      "price": 4.99,
+      "description": "A playlist designed to keep you calm under pressure while studying for exams."
+    },
+    {
+      "product_id": "ST007",
+      "title": "Focus Flow Instrumentals",
+      "price": 3.79,
+      "description": "Instrumental melodies curated to help you enter a deep workflow state."
+    },
+    {
+      "product_id": "ST008",
+      "title": "Chill Coding Playlist",
+      "price": 6.29,
+      "description": "Relaxed ambient and electronic tracks to help programmers maintain focus while coding."
+    },
+    {
+      "product_id": "ST009",
+      "title": "Mindset Mastery Mix",
+      "price": 4.19,
+      "description": "Medium-tempo tracks that boost confidence and help you maintain a productive mindset."
+    },
+    {
+      "product_id": "ST010",
+      "title": "Late Night Assignment Vibes",
+      "price": 5.99,
+      "description": "Slow, calming late-night melodies perfect for completing assignments or journaling."
+    }
+  ]
+}
+

@@ -1,0 +1,31 @@
+<header class="main-header">
+  <div class="nav-container">
+
+    <a class="logo" href="/index.html">MoodMix</a>
+
+    <!-- Hamburger menu -->
+    <div class="menu-toggle" id="menuToggle">
+      ☰
+    </div>
+
+    <!-- Navigation links -->
+    <nav class="nav-links" id="navLinks">
+      <a href="/index.html">Home</a>
+      <a href="/src/cart/cart.html">Cart</a>
+      <a href="/src/wishlist/wish_list.html">Wishlist</a>
+    </nav>
+
+  </div>
+</header>
+
+<script>
+  // Mobile menu toggle
+  document.addEventListener("DOMContentLoaded", () => {
+    const menuToggle = document.getElementById("menuToggle");
+    const navLinks = document.getElementById("navLinks");
+
+    menuToggle.addEventListener("click", () => {
+      navLinks.classList.toggle("active");
+    });
+  });
+</script>

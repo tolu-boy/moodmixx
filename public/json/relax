@@ -1,0 +1,64 @@
+{
+  "relax": [
+    {
+      "product_id": "RL001",
+      "title": "Evening Chill Breeze",
+      "price": 3.99,
+      "description": "Smooth and calming tracks perfect for unwinding after a long day."
+    },
+    {
+      "product_id": "RL002",
+      "title": "Calm & Cozy Vibes",
+      "price": 4.49,
+      "description": "Warm, comforting melodies that create a relaxing atmosphere anytime."
+    },
+    {
+      "product_id": "RL003",
+      "title": "Melting Stress Mix",
+      "price": 5.29,
+      "description": "Soft ambient tracks designed to melt stress and ease tension."
+    },
+    {
+      "product_id": "RL004",
+      "title": "Sundown Slow Jams",
+      "price": 3.79,
+      "description": "A collection of mellow tunes ideal for sunset relaxation."
+    },
+    {
+      "product_id": "RL005",
+      "title": "Soft Soul Relaxation",
+      "price": 4.59,
+      "description": "Soulful, slow-tempo songs that help you relax and reflect."
+    },
+    {
+      "product_id": "RL006",
+      "title": "Peaceful Mind Playlist",
+      "price": 2.99,
+      "description": "Minimalist sounds crafted to help you quiet your mind and find peace."
+    },
+    {
+      "product_id": "RL007",
+      "title": "Chillout Lounge Escape",
+      "price": 6.49,
+      "description": "Soft lounge-style tracks that transport you to a peaceful, chilled environment."
+    },
+    {
+      "product_id": "RL008",
+      "title": "Rainy Day Comfort",
+      "price": 3.29,
+      "description": "Gentle playlists inspired by the soothing ambiance of rainy days."
+    },
+    {
+      "product_id": "RL009",
+      "title": "Warm Tea & Music",
+      "price": 4.25,
+      "description": "Relaxing acoustic and soft jazz tunes perfect for sipping tea and unwinding."
+    },
+    {
+      "product_id": "RL010",
+      "title": "Cloud 9 Relax Mix",
+      "price": 5.89,
+      "description": "Heavenly, atmospheric tracks that lift your mood and calm your mind."
+    }
+  ]
+}

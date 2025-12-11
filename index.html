@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MoodMix</title>
+  <link rel="stylesheet" href="/src/style.css">
+</head>
+<body>
+<div id="header"></div>
+
+  <!-- MAIN CONTENT -->
+  <main>
+
+    <!-- Image Slider Section -->
+    <section class="images_slide">
+      <ul id="images_slide">
+        <!-- Images will slide here dynamically -->
+      </ul>
+    </section>
+
+    <div class="categories">
+  <div class="category-card" data-category="relax">
+    <img src="/images/relax.jpg" alt="Relax">
+    <h3>Relax</h3>
+  </div>
+  <div class="category-card" data-category="workout">
+    <img src="/images/gym.png" alt="Workout / Gym">
+    <h3>Workout / Gym</h3>
+  </div>
+  <div class="category-card" data-category="study">
+    <img src="/images/study.png" alt="Study">
+    <h3>Study</h3>
+  </div>
+  <div class="category-card" data-category="hangout">
+    <img src="/images/hangout.png" alt="Dates">
+    <h3>Dates</h3>
+  </div>
+</div>
+
+
+    <!-- Product List Section -->
+    <section class="product-list-section">
+      <ul id="my_product">
+        <!-- Products will be loaded here dynamically -->
+      </ul>
+    </section>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer id="footer">
+    <!-- Footer content -->
+  </footer>
+
+  <!-- Main JavaScript -->
+ <script type="module" src="./src/js/main.js"></script>
+
+
+
+</body>
+</html>

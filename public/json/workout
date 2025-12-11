@@ -1,0 +1,64 @@
+{
+  "workout": [
+    {
+      "product_id": "WK001",
+      "title": "Rock Workout Charge",
+      "price": 4.99,
+      "description": "A high-intensity rock playlist filled with powerful guitar riffs to boost your workout energy."
+    },
+    {
+      "product_id": "WK002",
+      "title": "Beast Mode Beats",
+      "price": 5.99,
+      "description": "Hard-hitting beats designed to push you into full beast mode during intense sessions."
+    },
+    {
+      "product_id": "WK003",
+      "title": "Adrenaline Rush Mix",
+      "price": 3.99,
+      "description": "Fast-tempo tracks that spike your adrenaline and keep you motivated throughout the entire workout."
+    },
+    {
+      "product_id": "WK004",
+      "title": "PowerLift Rock Anthems",
+      "price": 6.49,
+      "description": "Heavy rock anthems crafted to make your lift sessions more powerful and electrifying."
+    },
+    {
+      "product_id": "WK005",
+      "title": "Sweat Session Bangers",
+      "price": 4.49,
+      "description": "A blend of high-energy pop and EDM bangers to keep your heart rate up and your workout fun."
+    },
+    {
+      "product_id": "WK006",
+      "title": "Pump Up EDM",
+      "price": 3.49,
+      "description": "Bass-heavy EDM tracks that deliver maximum hype for cardio and cross-fit routines."
+    },
+    {
+      "product_id": "WK007",
+      "title": "Cardio Fire Playlist",
+      "price": 2.99,
+      "description": "Fast, rhythmic songs built for speed, movement, and burning calories efficiently."
+    },
+    {
+      "product_id": "WK008",
+      "title": "Iron & Energy",
+      "price": 5.49,
+      "description": "Energetic rock and electronic hits that give you strength and motivation for heavy lifting."
+    },
+    {
+      "product_id": "WK009",
+      "title": "Run Like Lightning",
+      "price": 3.29,
+      "description": "A mix of upbeat tracks created to boost your speed and stamina while running."
+    },
+    {
+      "product_id": "WK010",
+      "title": "Gym Savage Tracks",
+      "price": 6.99,
+      "description": "Aggressive, high-impact tracks for people who want to train hard and dominate the gym floor."
+    }
+  ]
+}
