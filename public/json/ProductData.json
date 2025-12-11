@@ -5,70 +5,70 @@
       "title": "Romantic Dinner Vibes",
       "price": 5.99,
       "description": "Smooth, romantic tracks perfect for a cozy dinner date.",
-      "image": "/public/images/hangout.png"
+      "image": "/images/hangout.png"
     },
     {
       "product_id": "DO002",
       "title": "Sunset Stroll Mix",
       "price": 4.49,
       "description": "Soft melodies to accompany a relaxing walk at sunset.",
-      "image": "/public/images/hangout.png"
+      "image": "/images/hangout.png"
     },
     {
       "product_id": "DO003",
       "title": "Picnic Chill Beats",
       "price": 3.99,
       "description": "Light, cheerful tunes for a fun picnic outdoors.",
-      "image": "/public/images/hangout.png"
+      "image": "/images/hangout.png"
     },
     {
       "product_id": "DO004",
       "title": "Cafe Coffee Date",
       "price": 4.29,
       "description": "Mellow background music perfect for chatting over coffee.",
-      "image": "/public/images/hangout.png"
+      "image": "/images/hangout.png"
     },
     {
       "product_id": "DO005",
       "title": "Movie Night Mood",
       "price": 6.49,
       "description": "Romantic and cozy tracks to set the mood for a date night at home.",
-      "image": "/public/images/hangout.png"
+      "image": "/images/hangout.png"
     },
     {
       "product_id": "DO006",
       "title": "Drive & Vibes",
       "price": 3.79,
       "description": "Upbeat, feel-good music for a scenic drive together.",
-      "image": "/public/images/hangout.png"
+      "image": "/images/hangout.png"
     },
     {
       "product_id": "DO007",
       "title": "Evening Lounge Love",
       "price": 5.29,
       "description": "Smooth lounge music for relaxed evening outings.",
-      "image": "/public/images/hangout.png"
+      "image": "/images/hangout.png"
     },
     {
       "product_id": "DO008",
       "title": "Stargazing Tunes",
       "price": 4.99,
       "description": "Calm and soothing tracks perfect for a night under the stars.",
-      "image": "/public/images/hangout.png"
+      "image": "/images/hangout.png"
     },
     {
       "product_id": "DO009",
       "title": "Beachside Romance",
       "price": 6.19,
       "description": "Soft, tropical-inspired tunes for a romantic beach outing.",
-      "image": "/public/images/hangout.png"
+      "image": "/images/hangout.png"
     },
     {
       "product_id": "DO010",
       "title": "City Lights Evening",
       "price": 5.59,
       "description": "Smooth urban vibes for a night out in the city.",
-      "image": "/public/images/hangout.png"
+      "image": "/images/hangout.png"
     }
   ],
 
@@ -78,70 +78,70 @@
       "title": "Evening Chill Breeze",
       "price": 3.99,
       "description": "Smooth and calming tracks perfect for unwinding after a long day.",
-      "image": "/public/images/relax.jpg"
+      "image": "/images/relax.jpg"
     },
     {
       "product_id": "RL002",
       "title": "Calm & Cozy Vibes",
       "price": 4.49,
       "description": "Warm, comforting melodies that create a relaxing atmosphere anytime.",
-      "image": "/public/images/relax.jpg"
+      "image": "/images/relax.jpg"
     },
     {
       "product_id": "RL003",
       "title": "Melting Stress Mix",
       "price": 5.29,
       "description": "Soft ambient tracks designed to melt stress and ease tension.",
-      "image": "/public/images/relax.jpg"
+      "image": "/images/relax.jpg"
     },
     {
       "product_id": "RL004",
       "title": "Sundown Slow Jams",
       "price": 3.79,
       "description": "A collection of mellow tunes ideal for sunset relaxation.",
-      "image": "/public/images/relax.jpg"
+      "image": "/images/relax.jpg"
     },
     {
       "product_id": "RL005",
       "title": "Soft Soul Relaxation",
       "price": 4.59,
       "description": "Soulful, slow-tempo songs that help you relax and reflect.",
-      "image": "/public/images/relax.jpg"
+      "image": "/images/relax.jpg"
     },
     {
       "product_id": "RL006",
       "title": "Peaceful Mind Playlist",
       "price": 2.99,
       "description": "Minimalist sounds crafted to help you quiet your mind and find peace.",
-      "image": "/public/images/relax.jpg"
+      "image": "/images/relax.jpg"
     },
     {
       "product_id": "RL007",
       "title": "Chillout Lounge Escape",
       "price": 6.49,
       "description": "Soft lounge-style tracks that transport you to a peaceful, chilled environment.",
-      "image": "/public/images/relax.jpg"
+      "image": "/images/relax.jpg"
     },
     {
       "product_id": "RL008",
       "title": "Rainy Day Comfort",
       "price": 3.29,
       "description": "Gentle playlists inspired by the soothing ambiance of rainy days.",
-      "image": "/public/images/relax.jpg"
+      "image": "/images/relax.jpg"
     },
     {
       "product_id": "RL009",
       "title": "Warm Tea & Music",
       "price": 4.25,
       "description": "Relaxing acoustic and soft jazz tunes perfect for sipping tea and unwinding.",
-      "image": "/public/images/relax.jpg"
+      "image": "/images/relax.jpg"
     },
     {
       "product_id": "RL010",
       "title": "Cloud 9 Relax Mix",
       "price": 5.89,
       "description": "Heavenly, atmospheric tracks that lift your mood and calm your mind.",
-      "image": "/public/images/relax.jpg"
+      "image": "/images/relax.jpg"
     }
   ],
 
@@ -151,70 +151,70 @@
       "title": "Steady Grind Motivation",
       "price": 4.49,
       "description": "A calm motivational playlist designed to keep you disciplined and focused during long study hours.",
-      "image": "/public/images/study.png"
+      "image": "/images/study.png"
     },
     {
       "product_id": "ST002",
       "title": "Deep Focus Lo-Fi",
       "price": 3.99,
       "description": "Smooth lo-fi beats that help eliminate distractions and create a stable study rhythm.",
-      "image": "/public/images/study.png"
+      "image": "/images/study.png"
     },
     {
       "product_id": "ST003",
       "title": "Brainwave Boost",
       "price": 5.49,
       "description": "Ambient tracks to enhance concentration and cognitive focus.",
-      "image": "/public/images/study.png"
+      "image": "/images/study.png"
     },
     {
       "product_id": "ST004",
       "title": "Zero Distractions Mix",
       "price": 2.99,
       "description": "Minimalist soundscapes curated to keep your mind clear and fully present.",
-      "image": "/public/images/study.png"
+      "image": "/images/study.png"
     },
     {
       "product_id": "ST005",
       "title": "Study in Silence Beats",
       "price": 3.49,
       "description": "Extremely soft instrumental beats perfect for reading, writing, or quiet learning.",
-      "image": "/public/images/study.png"
+      "image": "/images/study.png"
     },
     {
       "product_id": "ST006",
       "title": "Exam Mode Calm",
       "price": 4.99,
       "description": "A playlist designed to keep you calm under pressure while studying.",
-      "image": "/public/images/study.png"
+      "image": "/images/study.png"
     },
     {
       "product_id": "ST007",
       "title": "Focus Flow Instrumentals",
       "price": 3.79,
       "description": "Instrumental melodies curated to help you enter a deep workflow state.",
-      "image": "/public/images/study.png"
+      "image": "/images/study.png"
     },
     {
       "product_id": "ST008",
       "title": "Chill Coding Playlist",
       "price": 6.29,
       "description": "Relaxed ambient and electronic tracks to help programmers maintain focus.",
-      "image": "/public/images/study.png"
+      "image": "/images/study.png"
     },
     {
       "product_id": "ST009",
       "title": "Mindset Mastery Mix",
       "price": 4.19,
       "description": "Medium-tempo tracks that boost confidence and help maintain productivity.",
-      "image": "/public/images/study.png"
+      "image": "/images/study.png"
     },
     {
       "product_id": "ST010",
       "title": "Late Night Assignment Vibes",
       "price": 5.99,
       "description": "Slow, calming late-night melodies perfect for assignments or journaling.",
-      "image": "/public/images/study.png"
+      "image": "/images/study.png"
     }
   ],
 
@@ -224,70 +224,70 @@
       "title": "Rock Workout Charge",
       "price": 4.99,
       "description": "High-intensity rock playlist filled with powerful guitar riffs.",
-      "image": "/public/images/gym.png"
+      "image": "/images/gym.png"
     },
     {
       "product_id": "WK002",
       "title": "Beast Mode Beats",
       "price": 5.99,
       "description": "Hard-hitting beats designed for intense sessions.",
-      "image": "/public/images/gym.png"
+      "image": "/images/gym.png"
     },
     {
       "product_id": "WK003",
       "title": "Adrenaline Rush Mix",
       "price": 3.99,
       "description": "Fast-tempo tracks that keep your energy high.",
-      "image": "/public/images/gym.png"
+      "image": "/images/gym.png"
     },
     {
       "product_id": "WK004",
       "title": "PowerLift Rock Anthems",
       "price": 6.49,
       "description": "Heavy rock anthems crafted for powerful lift sessions.",
-      "image": "/public/images/gym.png"
+      "image": "/images/gym.png"
     },
     {
       "product_id": "WK005",
       "title": "Sweat Session Bangers",
       "price": 4.49,
       "description": "A blend of high-energy pop and EDM bangers.",
-      "image": "/public/images/gym.png"
+      "image": "/images/gym.png"
     },
     {
       "product_id": "WK006",
       "title": "Pump Up EDM",
       "price": 3.49,
       "description": "Bass-heavy EDM tracks for cardio and cross-fit routines.",
-      "image": "/public/images/gym.png"
+      "image": "/images/gym.png"
     },
     {
       "product_id": "WK007",
       "title": "Cardio Fire Playlist",
       "price": 2.99,
       "description": "Fast rhythmic songs built for burning calories efficiently.",
-      "image": "/public/images/gym.png"
+      "image": "/images/gym.png"
     },
     {
       "product_id": "WK008",
       "title": "Iron & Energy",
       "price": 5.49,
       "description": "Energetic rock and electronic hits for heavy lifting.",
-      "image": "/public/images/gym.png"
+      "image": "/images/gym.png"
     },
     {
       "product_id": "WK009",
       "title": "Run Like Lightning",
       "price": 3.29,
       "description": "Upbeat tracks created to boost speed and stamina.",
-      "image": "/public/images/gym.png"
+      "image": "/images/gym.png"
     },
     {
       "product_id": "WK010",
       "title": "Gym Savage Tracks",
       "price": 6.99,
       "description": "Aggressive tracks for people who want hard training.",
-      "image": "/public/images/gym.png"
+      "image": "/images/gym.png"
     }
   ]
 }
