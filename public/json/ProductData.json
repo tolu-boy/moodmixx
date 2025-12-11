@@ -5,14 +5,14 @@
       "title": "Romantic Dinner Vibess",
       "price": 5.99,
       "description": "Smooth, romantic tracks perfect for a cozy dinner date.",
-      "image": "images/hangout.png"
+      "image": "/images/hangout.png"
     },
     {
       "product_id": "DO002",
       "title": "Sunset Stroll Mix",
       "price": 4.49,
       "description": "Soft melodies to accompany a relaxing walk at sunset.",
-      "image": "images/hangout.png"
+      "image": "/images/hangout.png"
     },
     {
       "product_id": "DO003",

@@ -4,21 +4,24 @@ export async function loadLayout() {
 
   try {
     // Load header
-    const headerHTML = await fetch("/src/partials/header.html").then(res => res.text());
+    const headerHTML = await fetch("/partials/header.html").then((res) =>
+      res.text()
+    );
     if (headerContainer) {
       headerContainer.innerHTML = headerHTML;
 
       // Inject CSS
       const link = document.createElement("link");
       link.rel = "stylesheet";
-      link.href = "/src/partials/header.css";
+      link.href = "/partials/header.css";
       document.head.appendChild(link);
     }
 
     // Load footer
-    const footerHTML = await fetch("/src/partials/footer.html").then(res => res.text());
+    const footerHTML = await fetch("/partials/footer.html").then((res) =>
+      res.text()
+    );
     if (footerContainer) footerContainer.innerHTML = footerHTML;
-
   } catch (err) {
     console.error("Error loading layout:", err);
   }
