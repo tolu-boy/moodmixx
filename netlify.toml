@@ -1,0 +1,12 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+# Handle 404s - redirect to index.html for any unmatched routes
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 404
